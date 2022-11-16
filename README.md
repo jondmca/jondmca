@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jondmca
+- 👋 Hi, I’m Jonathan Derek McArthur
 - 👀 I’m interested in video games, working out, and learning new things!
 - 🌱 I’m currently learning Japanese and coding!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on products and apps!
 - 📫 How to reach me ...
 
 <!---
